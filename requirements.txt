@@ -8,3 +8,4 @@ python-dotenv==1.0.0
 psycopg2-binary
 SQLAlchemy==2.0.15
 plotly==5.3.1
+geopy ==2.4.1
