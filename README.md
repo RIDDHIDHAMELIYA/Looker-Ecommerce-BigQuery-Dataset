@@ -123,7 +123,7 @@ Analyze order_items.csv and orders.csv to understand order fulfillment timelines
 
 ### Data source: https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset/data
 ### Here is my Looker Dashboard: https://lookerstudio.google.com/reporting/1068c6cb-c557-4688-b0b2-8c39702b5064/page/MPctD
-> ⚠️ Due to large files, you may need to download data from Kaggle or BigQuery. 
+> ⚠️ Due to the large files I haven't Uploaded all the data, you may need to download data from Kaggle or BigQuery. 
 
 **Install the virtual environment and the required packages by following commands:**
 ```BASH
