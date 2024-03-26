@@ -119,9 +119,11 @@ Use users.csv to analyze user demographics, such as age, gender, and location.
 **Order Fulfillment Analysis:**
 Analyze order_items.csv and orders.csv to understand order fulfillment timelines and status.
 
-> These analyses provide insights into user engagement, product performance, and overall ecommerce operations, aiding in strategic decision-making and business optimization.
+> These analyses provide insights into user engagement, product performance, and overall e-commerce operations, aiding in strategic decision-making and business optimization.
 
 ### Data source: https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset/data
+### Here is my Looker Dashboard: https://lookerstudio.google.com/reporting/1068c6cb-c557-4688-b0b2-8c39702b5064/page/p_6ltly5infd
+> ⚠️ Due to large files, you may need to download data from Kaggle or BigQuery. 
 
 Install the virtual environment and the required packages by following commands:
 ```BASH
@@ -130,3 +132,5 @@ python -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
+
+Thank You
