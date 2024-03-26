@@ -122,10 +122,10 @@ Analyze order_items.csv and orders.csv to understand order fulfillment timelines
 > These analyses provide insights into user engagement, product performance, and overall e-commerce operations, aiding in strategic decision-making and business optimization.
 
 ### Data source: https://www.kaggle.com/datasets/mustafakeser4/looker-ecommerce-bigquery-dataset/data
-### Here is my Looker Dashboard: https://lookerstudio.google.com/reporting/1068c6cb-c557-4688-b0b2-8c39702b5064/page/p_6ltly5infd
+### Here is my Looker Dashboard: https://lookerstudio.google.com/reporting/1068c6cb-c557-4688-b0b2-8c39702b5064/page/MPctD
 > ⚠️ Due to large files, you may need to download data from Kaggle or BigQuery. 
 
-Install the virtual environment and the required packages by following commands:
+**Install the virtual environment and the required packages by following commands:**
 ```BASH
 pyenv local 3.11.3
 python -m venv .venv
@@ -133,4 +133,3 @@ source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
 
-Thank You
